@@ -1,4 +1,4 @@
-module github.com/jmniu/wx-third-dev
+module github.com/codingdogs/wx-third-dev
 
 go 1.13
 
